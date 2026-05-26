@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/home/jhozet/Aprendiendo-Java-10-Semanas/semana-07-agenda-web/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/jhozet/Aprendiendo-Java-10-Semanas/semana-07-agenda-web/./frontend/generated/jar-resources",
+  "staticOutput": "/home/jhozet/Aprendiendo-Java-10-Semanas/semana-07-agenda-web/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/jhozet/Aprendiendo-Java-10-Semanas/semana-07-agenda-web/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/jhozet/Aprendiendo-Java-10-Semanas/semana-07-agenda-web/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/jhozet/Aprendiendo-Java-10-Semanas/semana-07-agenda-web/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/jhozet/Aprendiendo-Java-10-Semanas/semana-07-agenda-web/target/dev-bundle/config",
+  "jarResourcesFolder": "/home/jhozet/Aprendiendo-Java-10-Semanas/semana-07-agenda-web/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/home/jhozet/Aprendiendo-Java-10-Semanas/semana-07-agenda-web/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
